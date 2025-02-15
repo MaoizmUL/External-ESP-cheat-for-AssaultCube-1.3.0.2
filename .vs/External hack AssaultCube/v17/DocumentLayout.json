@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Hack Learning\\Assault Cube Extrernal ESP\\AC External ESP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F5A370-1FBF-4B32-80FE-9D051D7224A8}|Test\\Test.vcxproj|E:\\Projects\\Hack Learning\\Assault Cube Extrernal ESP\\AC External ESP\\Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01F5A370-1FBF-4B32-80FE-9D051D7224A8}|Test\\Test.vcxproj|solutionrelative:Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Projects\\Hack Learning\\Assault Cube Extrernal ESP\\AC External ESP\\Test\\main.cpp",
+              "RelativeDocumentMoniker": "Test\\main.cpp",
+              "ToolTip": "E:\\Projects\\Hack Learning\\Assault Cube Extrernal ESP\\AC External ESP\\Test\\main.cpp",
+              "RelativeToolTip": "Test\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T14:07:24.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

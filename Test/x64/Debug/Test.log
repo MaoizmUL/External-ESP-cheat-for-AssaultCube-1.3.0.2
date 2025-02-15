@@ -1,0 +1,19 @@
+﻿  Test.cpp
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,123): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,94): warning C4244: 'argument': conversion from 'dataType' to 'DWORD', possible loss of data
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,94): warning C4244:         with
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,94): warning C4244:         [
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,94): warning C4244:             dataType=uintptr_t
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,94): warning C4244:         ]
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(37,67): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(106,33): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+  D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(106,33):
+  the template instantiation context (the oldest one first) is
+  	D:\Projects\Console projects\Test Function\Test\Test\Test.cpp(35,72):
+  	see reference to function template instantiation 'dataType memory_read<uintptr_t>(HANDLE,DWORD)' being compiled
+          with
+          [
+              dataType=uintptr_t
+          ]
+  
+  Test.vcxproj -> D:\Projects\Console projects\Test Function\Test\x64\Debug\Test.exe
