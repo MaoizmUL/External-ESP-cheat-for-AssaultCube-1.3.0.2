@@ -10,7 +10,7 @@ Game Version: 1.3.0.2 (latest version)
 
 ##Installation and running prject:
 
-1. Clone the repository: "git.clone https://github.com/External-ESP-for-AC.git".
+1. Clone the repository: "[https://github.com/MaoizmUL/External-ESP-for-AC.git]".
 2. Open the project in Visual Studio.
 3. Build the project (USE Debug mode in x86).
 
