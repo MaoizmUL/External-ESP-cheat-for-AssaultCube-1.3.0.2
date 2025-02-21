@@ -10,7 +10,7 @@ Game Version: 1.3.0.2 (latest version)
 
 ##Installation and running prject:
 
-1. Clone the repository: "[https://github.com/MaoizmUL/External-ESP-for-AC.git]".
+1. Clone the repository: "[https://github.com/MaoizmUL/External-ESP-cheat-for-AssaultCube-1.3.0.2.git]".
 2. Open the project in Visual Studio.
 3. Build the project (USE Debug mode in x86).
 
